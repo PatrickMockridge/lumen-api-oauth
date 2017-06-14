@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/lumen-api-oauth":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/Code/lumen-api-oauth","hostpath":"/home/patrick/Code","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/patrick/Code/lumen-api-oauth","disabled":false,"__vagrantfile":true}}}
